@@ -38,6 +38,14 @@
     </dependency>
 
     <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.28</version> <!-- Replace with the latest version -->
+      <scope>provided</scope>
+    </dependency>
+
+
+    <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
       <version>7.0.0</version>
